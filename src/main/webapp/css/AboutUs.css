@@ -1,0 +1,53 @@
+/* AboutUs.css */
+
+/* Header styles */
+.header {
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 10px 0;
+}
+
+.header .navbar-brand {
+  font-size: 1.5rem;
+}
+
+/* Footer styles */
+.footer {
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 20px 0;
+}
+
+.footer p {
+  margin-bottom: 0;
+}
+
+/* About Us content styles */
+.about-us {
+  margin-top: 20px;
+}
+
+.about-us h2 {
+  color: #343a40;
+}
+
+.about-us h3 {
+  color: #343a40;
+}
+
+.about-us p {
+  color: #666666;
+}
+
+.about-us ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.about-us ul li {
+  color: #666666;
+}
+
+.about-us a {
+  color: #007bff;
+}

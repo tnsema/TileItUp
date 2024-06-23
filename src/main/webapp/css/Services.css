@@ -1,0 +1,72 @@
+   .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 20px;
+            background-color: #333;
+            color: #fff;
+        }
+
+        .header-left p {
+            margin: 0;
+        }
+
+        .learn-more-button {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+
+        .services-page {
+            text-align: center;
+            margin: 20px;
+        }
+
+        .services-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .service {
+            border: 1px solid #ccc;
+            margin: 10px;
+            padding: 20px;
+            width: 200px;
+            text-align: center;
+        }
+
+        .service img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .buttons button {
+            padding: 5px 10px;
+            margin: 5px;
+            cursor: pointer;
+        }
+
+        .interested {
+            background-color: green;
+            color: white;
+        }
+
+        .not-interested {
+            background-color: red;
+            color: white;
+        }
+        .list_services_all{
+            border:1px solid black;
+            min-height:3cm;
+            border-radius:10px;
+            padding-top:20px;
+        }
+        .each_service_alone{
+            min-height : 10cm;
+            width : 15cm;
+            background-color : green;
+            margin-bottom:50px;
+        }
